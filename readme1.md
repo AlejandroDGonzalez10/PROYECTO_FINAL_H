@@ -30,4 +30,15 @@
       <li>Interacción predictiva</li>
     </ul>
   </ul>
+  <title>Información del Servicio de Contratación de Talentos</title>
+</head>
+<body>
+	<h1>¡Somos Tu Mejor Socio en Contratación de Talentos!</h1>
+	<p>Nuestro servicio se destaca por la eficiencia y por eso nuestros aranceles también. Contamos con un sistema de recomendación conjunto con los beneficios del paquete estándar que ofrece lo siguiente:</p>
+	<ul>
+		<li>Empresas/Reclutadoras: $500 USD mensuales con uso ilimitado.</li>
+		<li>Servicio Premium: Personalización al 100% según sus requerimientos y necesidades. Tan solo cobramos el 10% del salario anual bruto de la vacante a desempeñar.</li>
+	</ul>
+	<p>Además, ofrecemos un beneficio express para los postulantes que quieran mejorar sus búsquedas y perfiles para tener las ofertas ideales según sus características. Con una suscripción única de $50 USD por mejora eficiente de su perfil profesional y sugerencias de búsqueda laboral, también contamos con el servicio premium donde nos abocamos a la búsqueda de tu puesto ideal.</p>
+	<p>Para más información, no dudes en contactarnos. ¡Somos Tu Mejor Socio en Contratación de Talentos!</p>
 </body>
