@@ -41,4 +41,5 @@
 	</ul>
 	<p>Además, ofrecemos un beneficio express para los postulantes que quieran mejorar sus búsquedas y perfiles para tener las ofertas ideales según sus características. Con una suscripción única por vez de $50 USD por mejora eficiente de su perfil profesional y sugerencias de búsqueda laboral, también contamos con el servicio premium donde nos abocamos a la búsqueda de tu puesto ideal.</p>
 	<p>Para más información, no dudes en contactarnos. ¡Somos Tu Mejor Socio en Contratación de Talentos!</p>
+	<p>talentiaconsult@gmail.com</p>
 </body>
