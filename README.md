@@ -30,6 +30,6 @@
 </ul>
 
 <h1>ARCHIVOS DEL PROYECTO</h1>
-<p>En los archivos <strong>ETL.ipynb</strong> y <strong>EDA.ipynb</strong> que están a disposición se puede detallar la elaboración y transformación de los datos obtenidos de la fuente de la página de LinkedIn para tener datos de ofertas laborales de los sectores a analizar. También se detalla el enlace del Drive donde podrán disponibilizar de los archivos usados para dicho proyecto.</p>
+<p>En los archivos <strong>ETL.ipynb</strong> y <strong>EDA.ipynb</strong> que están a disposición se puede detallar la elaboración y transformación de los datos obtenidos de la fuente de la página de LinkedIn para tener datos de ofertas laborales de los sectores a analizar. También se detalla el enlace del Drive donde podrán disponibilizar de los archivos usados para dicho proyecto, tambien esta el <strong>scrip_prefect.py</strong> el cual contiene el script que se usara para prefect en la automatizacion de datos.</p>
 
 drive: https://drive.google.com/drive/folders/16eRGE7B2F9KW6ZNcd1XhJyDpONom1kkF?usp=share_link
